@@ -6,7 +6,7 @@ What is 3itcoin?
 
 3itcoin is peer2peer payment system using waves platforms.
 21,000,000,000 3itcoins in total, No reissuance of more.
-For more information about 3itcoin visit https://beta.wavesplatform.com/
+For more information about 3itcoin visit https://beta.wavesplatform.com/ .
 3itcoin coin ID is 9DSDMDTmR7jxdd8rR8T6yLCyoTCyzcs3r2oQKiidf4xm .
 
 License
